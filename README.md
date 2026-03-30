@@ -9,7 +9,7 @@ Store data in a database
 Simple UI using HTML/CSS
 How to Run
 Clone the repository:
-git clone https://github.com/yourusername/CarDataBaseWebsite.git
+git clone https://github.com/Calvin2334/CarDataBaseWebsite.git
 Go into the folder:
 cd CarDataBaseWebsite
 Install dependencies:
@@ -19,8 +19,7 @@ python app.py
 Open your browser and go to:
 http://127.0.0.1:5000/
 Demo
-
-(Add your video link here)
+(https://drive.google.com/file/d/1LOzj2mOteqDBeY0I7vzkFClXX34Z897W/view?usp=sharing)
 
 Tech Used
 Python
