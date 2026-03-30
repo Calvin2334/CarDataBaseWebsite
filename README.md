@@ -19,7 +19,7 @@ python app.py
 Open your browser and go to:
 http://127.0.0.1:5000/
 Demo
-(https://drive.google.com/file/d/1LOzj2mOteqDBeY0I7vzkFClXX34Z897W/view?usp=sharing)
+https://drive.google.com/file/d/1LOzj2mOteqDBeY0I7vzkFClXX34Z897W/view?usp=sharing
 
 Tech Used
 Python
